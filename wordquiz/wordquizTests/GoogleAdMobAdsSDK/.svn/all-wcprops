@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Mobile-Projects/!svn/ver/8823/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/GoogleAdMobAdsSDK
+END
+GADBannerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/GoogleAdMobAdsSDK/GADBannerView.h
+END
+GADRequestError.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/GoogleAdMobAdsSDK/GADRequestError.h
+END
+GADInterstitialDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/GoogleAdMobAdsSDK/GADInterstitialDelegate.h
+END
+GADRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/GoogleAdMobAdsSDK/GADRequest.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/GoogleAdMobAdsSDK/README.txt
+END
+GADBannerViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/GoogleAdMobAdsSDK/GADBannerViewDelegate.h
+END
+GADInterstitial.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/GoogleAdMobAdsSDK/GADInterstitial.h
+END
+libGoogleAdMobAds.a
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Mobile-Projects/!svn/ver/8823/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/GoogleAdMobAdsSDK/libGoogleAdMobAds.a
+END

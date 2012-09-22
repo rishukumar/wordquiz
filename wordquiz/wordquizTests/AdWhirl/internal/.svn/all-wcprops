@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal
+END
+AdWhirlView.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlView.m
+END
+AdWhirlConfigStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlConfigStore.h
+END
+AdWhirlAdapterEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlAdapterEvent.h
+END
+AdWhirlAdNetworkConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlAdNetworkConfig.h
+END
+AdWhirlWebBrowserController.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlWebBrowserController.h
+END
+AdWhirlConfigStore.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlConfigStore.m
+END
+AdWhirlAdNetworkRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlAdNetworkRegistry.h
+END
+AdWhirlAdapterEvent.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlAdapterEvent.m
+END
+AWNetworkReachabilityWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AWNetworkReachabilityWrapper.h
+END
+AdWhirlError.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlError.h
+END
+AdWhirlAdNetworkConfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlAdNetworkConfig.m
+END
+AdWhirlWebBrowserController.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlWebBrowserController.m
+END
+AdWhirlAdNetworkRegistry.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlAdNetworkRegistry.m
+END
+AWNetworkReachabilityWrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AWNetworkReachabilityWrapper.m
+END
+AdWhirlAdNetworkAdapter+Helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlAdNetworkAdapter+Helpers.h
+END
+AdWhirlError.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlError.m
+END
+AdWhirlAdNetworkAdapter+Helpers.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlAdNetworkAdapter+Helpers.m
+END
+SampleConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/SampleConstants.h
+END
+AdWhirlAdNetworkAdapter.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlAdNetworkAdapter.m
+END
+AdWhirlConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlConfig.h
+END
+AdWhirlClassWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlClassWrapper.h
+END
+ARRollerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/ARRollerView.m
+END
+AdWhirlCustomAdView.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlCustomAdView.h
+END
+AdWhirlConfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlConfig.m
+END
+AdWhirlClassWrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlClassWrapper.m
+END
+AdWhirlAdapterCustom.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlAdapterCustom.h
+END
+AdWhirlWebBrowser.xib
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlWebBrowser.xib
+END
+AdWhirlAdapterGeneric.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlAdapterGeneric.h
+END
+UIColor+AdWhirlConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/UIColor+AdWhirlConfig.h
+END
+AdWhirlCustomAdView.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlCustomAdView.m
+END
+AdWhirlAdapterCustom.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlAdapterCustom.m
+END
+AdWhirlLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlLog.h
+END
+AdWhirlAdapterGeneric.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlAdapterGeneric.m
+END
+AWNetworkReachabilityDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AWNetworkReachabilityDelegate.h
+END
+UIColor+AdWhirlConfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/UIColor+AdWhirlConfig.m
+END
+AdWhirlView+.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlView+.h
+END
+AdWhirlLog.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/internal/AdWhirlLog.m
+END

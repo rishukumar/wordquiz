@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Mobile-Projects/!svn/ver/8826/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/adapters
+END
+AdWhirlAdapterIAd.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/adapters/AdWhirlAdapterIAd.h
+END
+AdWhirlAdNetworkAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/adapters/AdWhirlAdNetworkAdapter.h
+END
+AdWhirlAdapterIAd.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/adapters/AdWhirlAdapterIAd.m
+END
+AdWhirlAdapterGoogleAdMobAds.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Mobile-Projects/!svn/ver/8810/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/adapters/AdWhirlAdapterGoogleAdMobAds.h
+END
+AdWhirlAdapterGoogleAdMobAds.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Mobile-Projects/!svn/ver/8826/trunk/WordQuiz/SourceCode/wordquiz/wordquizTests/AdWhirl/adapters/AdWhirlAdapterGoogleAdMobAds.m
+END

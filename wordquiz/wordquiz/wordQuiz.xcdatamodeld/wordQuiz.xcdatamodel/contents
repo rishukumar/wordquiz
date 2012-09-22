@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="872" systemVersion="10K549" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="CategoryMaster" syncable="YES">
+        <attribute name="categoryID" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="categoryName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="categoryQuestionRelationship" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="QuestionMaster" syncable="YES"/>
+    </entity>
+    <entity name="QuestionDetails" syncable="YES">
+        <attribute name="alternateAnswer" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="answer" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="groupRelationID" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="questionRelationID" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="referenceText" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="questionGroupRelationship" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="QuestionGroup" syncable="YES"/>
+    </entity>
+    <entity name="QuestionGroup" syncable="YES">
+        <attribute name="groupID" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="groupName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="QuestionMaster" syncable="YES">
+        <attribute name="categoryRelationID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="questionDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="questionID" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="questionName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="questionThumb" optional="YES" attributeType="String" valueTransformerName="ImageToDataTransfer" syncable="YES"/>
+        <attribute name="questionType" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="timeLimit" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="questionScoreRelationship" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Score" syncable="YES"/>
+        <relationship name="questionToQuestionDetailRelationship" optional="YES" minCount="1" maxCount="1" deletionRule="Nullify" destinationEntity="QuestionDetails" syncable="YES"/>
+    </entity>
+    <entity name="Score" syncable="YES">
+        <attribute name="correct" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="questionRelationID" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="score" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="testDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="timeTaken" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="totalCount" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CategoryMaster" positionX="-171" positionY="-531" width="128" height="75"/>
+        <element name="QuestionDetails" positionX="-551" positionY="-189" width="128" height="90"/>
+        <element name="QuestionGroup" positionX="-756" positionY="-3" width="128" height="75"/>
+        <element name="QuestionMaster" positionX="-207" positionY="-378" width="128" height="135"/>
+        <element name="Score" positionX="-189" positionY="-171" width="128" height="90"/>
+    </elements>
+</model>
